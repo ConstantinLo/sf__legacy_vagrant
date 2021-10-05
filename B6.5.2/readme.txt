@@ -1,2 +1,2 @@
-Данная машина собирается на основе официального публичного бокса ubuntu/bionic64 (https://app.vagrantup.com/ubuntu/boxes/bionic64).
-Postgresql 8.4.22 устанавливается скриптом Vagrantfile из исходников (https://www.postgresql.org/docs/current/install-short.html)
+Р”Р°РЅРЅР°СЏ РјР°С€РёРЅР° СЃРѕР±РёСЂР°РµС‚СЃСЏ РЅР° РѕСЃРЅРѕРІРµ РѕС„РёС†РёР°Р»СЊРЅРѕРіРѕ РїСѓР±Р»РёС‡РЅРѕРіРѕ Р±РѕРєСЃР° ubuntu/bionic64 (https://app.vagrantup.com/ubuntu/boxes/bionic64).
+Postgresql 8.4.22 СѓСЃС‚Р°РЅР°РІР»РёРІР°РµС‚СЃСЏ СЃРєСЂРёРїС‚РѕРј Vagrantfile РёР· РёСЃС…РѕРґРЅРёРєРѕРІ (https://www.postgresql.org/docs/current/install-short.html)

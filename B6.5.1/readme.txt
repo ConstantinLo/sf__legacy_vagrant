@@ -1,4 +1,4 @@
-Данная машина была создана в виде виртуальной машины VirtualBox из дистрибутива Ubuntu Server 20.04.3 (https://releases.ubuntu.com/20.04.3/ubuntu-20.04.3-live-server-amd64.iso)
-Установлен Postgresql-8.4.22 из PostgreSQL Apt Repository (https://www.postgresql.org/download/linux/ubuntu/)
-Машина была настроена для дальнейшей упаковки в Vagrant Box (https://www.vagrantup.com/docs/boxes/base)
-Для последующего развертывания подготовлен Vagrantfile
+Р”Р°РЅРЅР°СЏ РјР°С€РёРЅР° Р±С‹Р»Р° СЃРѕР·РґР°РЅР° РІ РІРёРґРµ РІРёСЂС‚СѓР°Р»СЊРЅРѕР№ РјР°С€РёРЅС‹ VirtualBox РёР· РґРёСЃС‚СЂРёР±СѓС‚РёРІР° Ubuntu Server 20.04.3 (https://releases.ubuntu.com/20.04.3/ubuntu-20.04.3-live-server-amd64.iso)
+РЈСЃС‚Р°РЅРѕРІР»РµРЅ Postgresql-8.4.22 РёР· PostgreSQL Apt Repository (https://www.postgresql.org/download/linux/ubuntu/)
+РњР°С€РёРЅР° Р±С‹Р»Р° РЅР°СЃС‚СЂРѕРµРЅР° РґР»СЏ РґР°Р»СЊРЅРµР№С€РµР№ СѓРїР°РєРѕРІРєРё РІ Vagrant Box (https://www.vagrantup.com/docs/boxes/base)
+Р”Р»СЏ РїРѕСЃР»РµРґСѓСЋС‰РµРіРѕ СЂР°Р·РІРµСЂС‚С‹РІР°РЅРёСЏ РїРѕРґРіРѕС‚РѕРІР»РµРЅ Vagrantfile
